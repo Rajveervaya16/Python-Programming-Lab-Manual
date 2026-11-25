@@ -1,0 +1,4 @@
+2025-01-01 09:00:00 Login successful user=student
+2025-01-01 09:05:00 Failed login user=admin
+2025-01-01 09:06:00 Failed login user=student
+2025-01-01 09:10:00 Login successful user=student
